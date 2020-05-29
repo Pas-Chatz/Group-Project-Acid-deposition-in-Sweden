@@ -1,6 +1,6 @@
 # Group Project: Acid deposition in Sweden
 <p>This is a public version of our private repository of the assignment for the course of Ecological methods. We created this repository to make publicly available to everyone our code and the raw data. This works bidirectionaly; we can evolve our R skills based on your feedback and you can recycle and evolve our code for your own purposes. While on the one hand working with data is an individualistic process we can bring down the barriers of distance and work collectively. GitHub helped to overcome the distance between the group members; from Sweden all the way to Australia. Our rationale about science is based on open access, without barriers and with collaboration between researchers. </p>
-<p>Its very difficult after one month of working with scripts to determine which exact pieces of them are written from who. In general, Rosie focused on Aluminium, Paschalis on pH and phytoplankton and Kaseper on distance analysis. Charles and Bob contributed with adjustments.</p>
+<p>Its very difficult after one month of working with scripts to determine which exact pieces of them are written from who. In general, Rosie focused on Aluminium, Paschalis on pH and phytoplankton and Kasper on distance analysis. Charles and Bob contributed with adjustments.</p>
 <p> All of our data are sourced from SLU: https://miljodata.slu.se/mvm/ </p>
 
 <p>Cheers,</p>
